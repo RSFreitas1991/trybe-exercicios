@@ -1,0 +1,10 @@
+#input {
+    position: relative;
+    margin-bottom: 0px;
+}
+
+#valorDigitado {
+    position: absolute;
+    display:inline-block;
+    line-height:50%;
+}
